@@ -23,19 +23,19 @@
     <img src="/public/images/MusiclabLogo.png" alt="Logo"/>
   </a> -->
 
-  <h3 align="center">Fitness Tracker</h3>
+  <h3 align="center">Budget App</h3>
 
   <p align="center">
-    Simple fitness tracking app that shows statistics from the past 10 days.
+    Simple app to keep track of expenses and earnings. 
     <br />
-    <a href="https://github.com/drewole/fitness-tracker"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/drewole/budget-pwa"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/drewole/fitness-tracker">View Demo</a>
+    <a href="https://github.com/drewole/budget-pwa">View Demo</a>
     ·
-    <a href="https://github.com/drewole/fitness-tracker/issues">Report Bug</a>
+    <a href="https://github.com/drewole/budget-pwa/issues">Report Bug</a>
     ·
-    <a href="https://github.com/drewole/fitness-tracker/issues">Request Feature</a>
+    <a href="https://github.com/drewole/budget-pwa/issues">Request Feature</a>
   </p>
 </p>
 
@@ -80,7 +80,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
 * Mongo DB
 * Mongoose
 <!-- * [FontAwesome](https://fontawesome.com)
@@ -110,7 +110,7 @@ This is an example of how to list things you need to use the software and how to
  <!--Get a free API Key at [https://example.com](https://example.com) -->
 1. Clone the repo
    ```sh
-   git clone https://github.com/drewole/fitness-tracker.git
+   git clone https://github.com/drewole/budget-pwa.git
    ```
 2. Install NPM packages
    ```sh
@@ -128,9 +128,9 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Keep track of your workout stats and get stats based on the last 10 workouts.
+Track your budget over a week or a year. Simple app to do just that.
 
-_For more examples, please refer to the [Documentation](https://github.com/drewole/fitness-tracker)_
+_For more examples, please refer to the [Documentation](https://github.com/drewole/budget-pwa)_
 
 
 
@@ -139,7 +139,7 @@ _For more examples, please refer to the [Documentation](https://github.com/drewo
 
 None
 
-<!-- See the [open issues](https://github.com/drewole/fitness-tracker/issues) for a list of proposed features (and known issues). -->
+<!-- See the [open issues](https://github.com/drewole/budget-pwa/issues) for a list of proposed features (and known issues). -->
 
 
 
@@ -169,15 +169,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Drew Olsen - [@drewole](https://github.com/drewole)
 
 
-Project Link: [https://github.com/drewole/fitness-tracker](https://github.com/drewole/fitness-tracker)
+Project Link: [https://github.com/drewole/budget-pwa](https://github.com/drewole/budget-pwa)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Choose an Open Source License](https://choosealicense.com)
-* [Font Awesome](https://fontawesome.com)
-* [Bootstrap](https://getbootstrap.com)
+
 
 
 
@@ -185,18 +184,18 @@ Project Link: [https://github.com/drewole/fitness-tracker](https://github.com/dr
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/drewole/fitness-tracker.svg?style=for-the-badge
-[contributors-url]: https://github.com/drewole/fitness-tracker/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/drewole/fitness-tracker.svg?style=for-the-badge
-[forks-url]: https://github.com/drewole/fitness-tracker/network/members
-[stars-shield]: https://img.shields.io/github/stars/drewole/fitness-tracker.svg?style=for-the-badge
-[stars-url]: https://github.com/drewole/fitness-tracker/stargazers
-[issues-shield]: https://img.shields.io/github/issues/drewole/fitness-tracker.svg?style=for-the-badge
-[issues-url]: https://github.com/drewole/fitness-tracker/issues
-[license-shield]: https://img.shields.io/github/license/drewole/fitness-tracker.svg?style=for-the-badge
-[license-url]: https://github.com/drewole/fitness-tracker/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/drewole/budget-pwa.svg?style=for-the-badge
+[contributors-url]: https://github.com/drewole/budget-pwa/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/drewole/budget-pwa.svg?style=for-the-badge
+[forks-url]: https://github.com/drewole/budget-pwa/network/members
+[stars-shield]: https://img.shields.io/github/stars/drewole/budget-pwa.svg?style=for-the-badge
+[stars-url]: https://github.com/drewole/budget-pwa/stargazers
+[issues-shield]: https://img.shields.io/github/issues/drewole/budget-pwa.svg?style=for-the-badge
+[issues-url]: https://github.com/drewole/budget-pwa/issues
+[license-shield]: https://img.shields.io/github/license/drewole/budget-pwa.svg?style=for-the-badge
+[license-url]: https://github.com/drewole/budget-pwa/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/drewole
-[project-screenshot]: /public/images/screenshot.png
-[project-gif]: /public/images/screenshot.gif
-[project-logo]: /public/images/logo.png
+[project-screenshot]: public/images/screenshot.png
+[project-gif]: public/images/demo.gif
+[project-logo]: public/images/logo.png
