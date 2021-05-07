@@ -6,7 +6,9 @@ const compression = require("compression");
 //MongoSetup
 const dbName = "budget"
 const mongoConfig = {
-      useNewUrlParser: true, useFindAndModify: false
+      useNewUrlParser: true, 
+      useFindAndModify: false, 
+      useUnifiedTopology: true
 }
 mongoose.connect(process.env.MONGODB_URI || `mongodb://localhost/${dbName}`, mongoConfig);
 
